@@ -1,0 +1,17 @@
+*{
+    font-family: Bree Serif;
+}
+.body{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png");
+    background-size: cover;
+}
+.bg{
+    background-color: #00000080;
+    width: 350px;
+    height: 350px;
+    margin-top: 150px;
+    border: 4px solid #48ee59;
+}
+.h1{
+    padding: 60px;
+}

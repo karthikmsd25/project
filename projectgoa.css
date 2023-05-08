@@ -1,0 +1,10 @@
+.video{
+    width: 100px;
+    height: 100px;
+    float: left;
+    border-radius: 10px;
+    margin-left: 40px;
+}
+h3{
+    color: #323f4b;
+}

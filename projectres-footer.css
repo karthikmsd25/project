@@ -1,0 +1,11 @@
+.imgSize{
+    height: 400px;
+    width: 400px;
+}
+button{
+   background-color: #1f2933;
+   color: white; 
+}
+p{
+    color: #7b8794;
+}

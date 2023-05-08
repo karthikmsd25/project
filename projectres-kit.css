@@ -1,0 +1,11 @@
+.card-img-top{
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 30%;
+    margin-right: 50%;
+}
+.container{
+    text-align: center;
+    margin: 100px;
+}

@@ -1,0 +1,32 @@
+.container{
+    color: white;
+}
+.image{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png');
+    background-size: 400px;
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 600px;
+    margin: 20px;
+}
+.image2{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png');
+    background-size: 400px;
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 600px;
+    margin: 20px;
+}
+.card1{
+    margin-top: 300px;
+    margin-left: 10px;
+}
+button{
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+}
+.but{
+    display: flex;
+    justify-content: end;
+}

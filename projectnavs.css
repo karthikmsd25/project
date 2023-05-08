@@ -1,0 +1,52 @@
+.search-box {
+    
+    margin-left: 300px;
+    
+}
+.image-card{
+    position: relative;
+    bottom: 380px;
+    margin-left: 105px;
+}
+.img-offer{
+    margin-left: 800px;
+    position: relative;
+    bottom: 800px;
+    width: 300px;
+}
+.profile-welcome{
+    text-align: center;
+}
+.icon{
+   color: white;
+}
+.nav-link{
+    color:white;
+}
+.home-img{
+    margin-left: 900px;
+    position: relative;
+    bottom: 400px;
+}
+.carousel-item{
+    height: 400px;
+}
+.login{
+    border: none;
+    background-color: black;
+}
+.log-box{
+    margin-left: 20px;
+    background-color: black;
+}
+.log-box1{
+    margin-left: 50px;
+    background-color: black;
+}
+.mail{
+    margin-left: 10px;
+}
+.form-group{
+    position: relative;
+    top: 100px;
+}

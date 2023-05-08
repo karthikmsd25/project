@@ -1,0 +1,13 @@
+.imgHit{
+    height: 5rem;
+    width: 5rem;
+}
+.cordRadios{
+    border-radius: 20px;
+}
+body{
+    background-color: gray;
+}
+.txtYellow{
+    color: yellow;
+}

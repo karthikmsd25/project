@@ -1,0 +1,11 @@
+.bg-container{
+    background-image: url('https://danieldarling.com/wp-content/uploads/2018/06/GettyImages-104874936-2.jpg');
+    background-size: cover;
+    
+    
+}
+.card{
+
+    background-color: white;
+    border-radius: 20px;
+}

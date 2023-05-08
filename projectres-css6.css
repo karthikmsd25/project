@@ -1,0 +1,18 @@
+.text1{
+    background-color: black;
+    color: white;
+}
+.text2{
+    background-color: green;
+    color: black;
+}
+#text{
+    background-color: orange;
+}
+.text3{
+    background-color: aqua;
+    color: white;
+}
+.text3{
+    background-color: black;!important
+}

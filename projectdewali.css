@@ -1,0 +1,23 @@
+.bg-container{
+    background-color: rgb(147, 221, 221);
+}
+.img-card{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+.img-card1{
+    width: 100px;
+    height: 100px;
+    
+}
+.card-img-top{
+    width: 100px;
+    height: 100px;
+    margin-left: 80px;
+}
+.card{
+    position: relative;
+    bottom: 100px;
+    text-align: center;
+}

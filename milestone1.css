@@ -1,0 +1,87 @@
+.brand{
+    border: 2px solid white;
+    text-align: center;
+    padding: 10px;
+    height: 60px;
+}
+.navbar-collapse{
+    font-size: 30px;
+
+}
+#home{
+    background-image: url('https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif');
+    background-size: cover ;
+    height: 45rem;
+}
+#contact{
+    background-image: url('https://t3.ftcdn.net/jpg/02/90/89/76/360_F_290897614_7RdAsk2GmumcGWZ2qklmV74hKlNmznSx.jpg');
+    background-size: cover;
+    height: 45rem;
+}
+.about{
+    width: 500px;
+    position: relative;
+    top: 150px;
+    left: 400px;
+}
+#skill{
+    background-image: url('https://t3.ftcdn.net/jpg/02/90/89/76/360_F_290897614_7RdAsk2GmumcGWZ2qklmV74hKlNmznSx.jpg');
+    background-size: cover;
+    height: 45rem;
+}
+.lag-skill{
+   position: relative;
+   top: 150px;
+   left: 200px;
+   color: white;
+}
+.lag-img{
+    position: relative;
+    left: 800px;
+    bottom: 200px;
+    background-color: white;
+    
+    padding: 10px;
+    border: none;
+}
+.lag-img:hover{
+    height: 150px;
+    width: 150px;
+}
+#edu{
+    background-image: url('https://t3.ftcdn.net/jpg/02/90/89/76/360_F_290897614_7RdAsk2GmumcGWZ2qklmV74hKlNmznSx.jpg');
+    background-size: cover;
+    height: 45rem;
+}
+@keyframes example {
+    0%   {background-color: red;}
+    25%  {background-color: yellow;}
+    50%  {background-color: blue;}
+    100% {background-color: green;}
+  }
+  
+  /* The element to apply the animation to */
+  .Education {
+    width: 700px;
+    box-shadow: 5px 5px 5px 5px white;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 4s;
+  }
+  .Education:hover{
+    text-align: center;
+    width: 900px;
+  }
+  #picture{
+    background-image: url('https://t3.ftcdn.net/jpg/02/90/89/76/360_F_290897614_7RdAsk2GmumcGWZ2qklmV74hKlNmznSx.jpg');
+    background-size: cover;
+    height: 45rem;
+}
+.nav-link{
+    text-shadow: 3px 3px 6px red;
+}
+.navbar{
+    position: sticky;
+    top: 0px;
+    height: 50px;
+}
